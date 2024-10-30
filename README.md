@@ -10,9 +10,11 @@ This project is a voice assistant model designed to process real-time audio stre
 
 ## Prerequisites
 
-- **Python 3.8+**
-- **Node.js** (for frontend setup)
-- **LiveKit API Key and Secret**
+- **Python 3.12**
+- **LiveKit API Key and Secret(Get this from [LiveKit](https://livekit.io/)->Settings->Keys)**
+- **Use [Livekit Playground](https://agents-playground.livekit.io/#cam=1&mic=1&video=1&audio=1&chat=1&theme_color=violet) for launching the main.py app**
+- ```bash
+  python main.py start
 
 ### Required Libraries and Tools
 
