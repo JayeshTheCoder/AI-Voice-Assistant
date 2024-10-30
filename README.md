@@ -18,7 +18,7 @@ This project is a voice assistant model designed to process real-time audio stre
 -  **Use [Livekit Playground](https://agents-playground.livekit.io/#cam=1&mic=1&video=1&audio=1&chat=1&theme_color=violet) for launching the main.py app**
   ```bash
   python main.py start
-
+```
 ### Required Libraries and Tools
 
 To install required Python libraries:
